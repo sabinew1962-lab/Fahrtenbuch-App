@@ -1,0 +1,8 @@
+Thumbs.db
+desktop.ini
+.DS_Store
+node_modules/
+.claude/settings.local.json
+# Sicherungen und Exporte gehören nie ins Repo (persönliche Daten!)
+fahrtenbuch-sicherung_*.json
+fahrtenbuch-*.csv
